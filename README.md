@@ -1,0 +1,2 @@
+# Janek
+pierwsze repozytorium
